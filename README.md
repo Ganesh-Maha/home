@@ -1,4 +1,4 @@
-# Ganesh Mahlawat
+
 
 #### Final Year Dual Degree Student | Department of Economic Sciences, IIT Kanpur
 
@@ -7,7 +7,7 @@
 - Phone: +91-9462793164  
 - GitHub: [Ganesh-Maha](https://github.com/Ganesh-Maha)  
 - LinkedIn: [Ganesh Mahlawat](https://www.linkedin.com/in/ganesh-mahlawat-4a6682179/)  
-- Website: [Portfolio](https://sites.google.com/view/mganesh20/welcome)  
+
 
 ## Academic Qualifications
 
